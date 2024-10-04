@@ -16,7 +16,7 @@ art analytical modeling platforms. This is a problem and project-based course.
 
 ## Course Objectives
 By the end of this course, you will be able to:
-● Demonstrate skills and techniques in optimization, simulation, and decision analysis
-● Select and recommend appropriate modeling techniques given a business problem
-● Formulate and develop decision analytic solutions to business problems
-● Present the results of decision analytic solutions in oral and written forms
+-  Demonstrate skills and techniques in optimization, simulation, and decision analysis
+-  Select and recommend appropriate modeling techniques given a business problem
+-  Formulate and develop decision analytic solutions to business problems
+-  Present the results of decision analytic solutions in oral and written forms
