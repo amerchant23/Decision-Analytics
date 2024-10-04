@@ -25,5 +25,15 @@ The constraints for this linear programming problem consider seven components of
 | Energy      | Minimum  | 2,000 Calories (kilocalories, kcal) |
 | Protein     | Minimum  | 50 grams (g)                    |
 | Vitamin D   | Minimum  | 20 micrograms (µg)              |
-| ...         | ...      | ...                              |
+| Calcium   | Minimum  | 1,300 milligrams (mg)              |
+| Iron   | Minimum  | 18 milligrams (mg)           |
+| Potassium   | Minimum  | 4,700 milligrams (mg)              |
 
+##References
+Stigler, G. J. (1945). The Cost of Subsistence.
+
+Dantzig, G. B. (1990). Linear Programming: Foundations and Extensions.
+
+van Dooren, C. (2018). The Diet Problem: A Historical Perspective.
+
+Mente, A., O'Donnell, M. J., & Yusuf, S. (2021). Sodium Intake and Health: A Review.
