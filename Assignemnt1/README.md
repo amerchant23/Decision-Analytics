@@ -31,7 +31,6 @@ The constraints for this linear programming problem consider seven components of
 | Potassium   | Minimum  | 4,700 milligrams (mg)              |
 
 ## References
-References
 
 Dantzig, George B. 1990. “The Diet Problem.” Informs. 20:4, 43–47. Available on Course Reserves.
 
