@@ -29,7 +29,7 @@ The constraints for this linear programming problem consider seven components of
 | Iron   | Minimum  | 18 milligrams (mg)           |
 | Potassium   | Minimum  | 4,700 milligrams (mg)              |
 
-##References
+## References
 Stigler, G. J. (1945). The Cost of Subsistence.
 
 Dantzig, G. B. (1990). Linear Programming: Foundations and Extensions.
