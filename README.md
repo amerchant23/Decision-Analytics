@@ -1,5 +1,6 @@
 # Decision-Analytics
 MSDS 460 Decision Analytics Course 
+
 Professor Thomas W. Miller
 
 ## Course Description
