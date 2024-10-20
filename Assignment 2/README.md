@@ -42,8 +42,8 @@ The project consists of five main parts, each contributing to a holistic underst
    - Consideration of the impact of additional contractors on project delivery.
 
 ## Important Files
-- **Excel Spreadsheet**: [project-plan-v003.xlsx]([path_to_your_excel_file](https://github.com/amerchant23/Decision-Analytics/blob/main/Assignment%202/project-plan-v003.xlsx))
-- **JSON Data**: [restaurants-v001.json]([path_to_your_json_file](https://github.com/amerchant23/Decision-Analytics/blob/main/Assignment%202/restaurants-v001.json))
+- **Excel Spreadsheet**: [project-plan-v003.xlsx][path_to_your_excel_file](https://github.com/amerchant23/Decision-Analytics/blob/main/Assignment%202/project-plan-v003.xlsx)
+- **JSON Data**: [restaurants-v001.json][path_to_your_json_file](https://github.com/amerchant23/Decision-Analytics/blob/main/Assignment%202/restaurants-v001.json)
 - **Program Code**: [Link to GitHub repository](https://github.com/amerchant23/Decision-Analytics/blob/main/Assignment%202/Assignment2.ipynb)
 
 ## Areas of Uncertainty
